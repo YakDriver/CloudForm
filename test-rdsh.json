@@ -811,11 +811,11 @@
                                     " --region ", { "Ref" : "AWS::Region"}, "\n"
                                 ]]}
                             },
-                            "c:\\cfn\\scripts\\P3RemoteAccess.psd1" :
+                            "C:\\Program Files\\WindowsPowerShell\\Modules\\P3RemoteAccess\\P3RemoteAccess.psd1" :
                             {
                                 "source" : "https://raw.githubusercontent.com/YakDriver/cfn/master/psmodules/P3RemoteAccess/P3RemoteAccess.psd1"
                             },
-                            "c:\\cfn\\scripts\\P3RemoteAccess.psm1" :
+                            "C:\\Program Files\\WindowsPowerShell\\Modules\\P3RemoteAccess\\P3RemoteAccess.psm1" :
                             {
                                 "source" : "https://raw.githubusercontent.com/YakDriver/cfn/master/psmodules/P3RemoteAccess/P3RemoteAccess.psm1"
                             },
